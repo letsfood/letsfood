@@ -1,4 +1,4 @@
-<a href="https://letsfood.co"><img width="100%" src="http://letsfood.co/images/thumbnail.png" alt="Lets Food - It's how people find a place to eat and drink."></a>
+<a href="https://letsfood.space"><img width="100%" src="https://letsfood.space/images/thumbnail.png" alt="Lets Food - It's how people find a place to eat and drink."></a>
 
 > It's how people find a place to eat and drink. Try it now! Shake your phone!
 
@@ -13,7 +13,7 @@
 - [App Store](https://itunes.apple.com/app/lets-food/id1057019830)
 - [Google Play Store](https://play.google.com/store/apps/details?id=br.com.letsfood)
 - [Windows Phone Store](https://www.microsoft.com/store/apps/lets-food/9nblggh69bj7)
-- [Firefox Marketplace](https://marketplace.firefox.com/app/lets-food/)
+- [Firefox Marketplace](https://marketplace.firefox.com/app/letsfood)
 - [App World Store](#)
 - [Amazon Store](#)
 
